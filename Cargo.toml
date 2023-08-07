@@ -1,0 +1,12 @@
+[package]
+name = "canyon-sys"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies.cuda-sys]
+path = "cuda-sys"
+version = "0.1.0"
+
+[dependencies.cudnn-sys]
+path = "cudnn-sys"
+version = "0.1.0"

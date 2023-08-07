@@ -1,0 +1,14 @@
+/home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/deps/clang_sys-376fe407051ed3eb.rmeta: /home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/macros.rs /home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/common.rs /home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/dynamic.rs
+
+/home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/deps/libclang_sys-376fe407051ed3eb.rlib: /home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/macros.rs /home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/common.rs /home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/dynamic.rs
+
+/home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/deps/clang_sys-376fe407051ed3eb.d: /home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/macros.rs /home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/common.rs /home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/dynamic.rs
+
+/home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs:
+/home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs:
+/home/wade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs:
+/home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/macros.rs:
+/home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/common.rs:
+/home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/wade/projects/canyon/canyon-sys/cudnn-sys/target/debug/build/clang-sys-0fedfa46b67d5c84/out
