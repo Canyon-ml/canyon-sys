@@ -4,9 +4,9 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies.canyon-cuda-sys]
-path = "canyon-cuda-sys"
+path = "./canyon-cuda-sys"
 version = "0.1.0"
 
 [dependencies.canyon-cudnn-sys]
-path = "canyon-cudnn-sys"
+path = "./canyon-cudnn-sys"
 version = "0.1.0"
