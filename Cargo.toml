@@ -3,10 +3,10 @@ name = "canyon-sys"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies.cuda-sys]
-path = "cuda-sys"
+[dependencies.canyon-cuda-sys]
+path = "canyon-cuda-sys"
 version = "0.1.0"
 
-[dependencies.cudnn-sys]
-path = "cudnn-sys"
+[dependencies.canyon-cudnn-sys]
+path = "canyon-cudnn-sys"
 version = "0.1.0"
