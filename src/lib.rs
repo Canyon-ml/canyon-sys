@@ -1,11 +1,12 @@
 
-extern crate canyon_cuda_sys;
-extern crate canyon_cudnn_sys;
+#![allow(non_upper_case_globals)]
+#![allow(non_camel_case_types)]
+#![allow(non_snake_case)]
 
 mod cuda {
-    pub use cuda_sys::*;
+    include!("cuda_bindings.rs");
 }
 
 mod cudnn {
-    pub use cudnn_sys::*;
+    include!("cudnn_bindings.rs");
 }
