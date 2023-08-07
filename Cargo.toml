@@ -4,6 +4,7 @@ version = "0.1.1"
 edition = "2021"
 license = "MIT"
 repository = "https://github.com/Canyon-ml/canyon-sys"
+description = "A sys crate for the Canyon ML Project"
 
 [build-dependencies]
 bindgen = "0.66.1"
